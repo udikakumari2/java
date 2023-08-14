@@ -1,0 +1,4 @@
+Content
+Excutable file of pharmacy management system (PMS) Direction-Pharmacy Management System(Group No 10)\pharmacy\dist
+project direction-Pharmacy Management System(Group No 10)\pharmacy
+report-OOP Project(Group No 10)
